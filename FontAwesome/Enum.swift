@@ -1451,6 +1451,7 @@ public let FontAwesomeIcons = [
     "fa-usb": "\u{f287}",
     "fa-usd": "\u{f155}",
     "fa-user": "\u{f007}",
+    "fa-user-o": "\u{f2c0}",
     "fa-user-md": "\u{f0f0}",
     "fa-user-plus": "\u{f234}",
     "fa-user-secret": "\u{f21b}",
